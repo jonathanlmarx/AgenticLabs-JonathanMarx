@@ -1,0 +1,10 @@
+# Virtual environment
+venv/
+
+# Local env vars (API keys etc.)
+.env
+
+# Jupyter + Python noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
