@@ -130,7 +130,7 @@ TAVILY_API_KEY=your-tavily-key
 ```
 
 ---
-#🎯 Goals of This Repository
+🎯 Goals of This Repository
 
 Build a growing portfolio of agent-based AI systems
 
