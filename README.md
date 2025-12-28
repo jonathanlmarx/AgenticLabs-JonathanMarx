@@ -69,6 +69,14 @@ This lab implements a **four-step reflection-based agent** that automatically:
 ![chart\_v2](labs/01_agentic_workflow/chart_v2.png)
 
 ---
+## 🧪 Lab 2 – Agentic SQL Generation with Reflection
+📍 Folder: labs/02_sql_reflection_agent
+
+An execution-aware agentic workflow that:
+- Generates SQL from natural language
+- Executes the query on SQLite
+- Reflects on real outputs
+- Refines and re-runs SQL for correctness
 
 # 🎯 Goals of This Repository
 
